@@ -1,0 +1,17 @@
+.main-header-group {
+  background-color: #2b2016;
+  color: #fff;
+  padding: 10px;
+  min-height: 70px;
+  box-shadow: #000000 3px;
+  border-bottom: #e8491d 3px solid;
+  text-align: center;
+}
+
+.pixelbrewer-logo {
+  width: 100px;
+  height: 100px;
+  padding: 10px auto;
+  margin: 10px auto;
+  display: block;
+}
