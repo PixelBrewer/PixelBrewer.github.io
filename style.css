@@ -55,6 +55,21 @@ a:active {
   font-size: larger;
   font-weight: normal;
 }
+.about-me-paragraph {
+  background-color: whitesmoke;
+  color: black;
+  padding: 10px;
+  margin: 10px;
+  min-height: 70px;
+  box-shadow: #000000 5px;
+  text-align: left;
+  text-wrap: wrap;
+  text-indent: 10px;
+  text-shadow: #000000;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: larger;
+  font-weight: normal;
+}
 
 .socials-link-group {
   background-color: whitesmoke;
