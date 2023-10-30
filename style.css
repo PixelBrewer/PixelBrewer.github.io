@@ -1,3 +1,23 @@
+a:link {
+  color: black;
+  text-decoration: none;
+}
+a:visited {
+  color: black;
+  text-decoration: none;
+}
+a:hover {
+  color: darkslateblue;
+  text-decoration: none;
+}
+a:focus {
+  color: darkslateblue;
+  text-decoration: none;
+}
+a:active {
+  color: darkslateblue;
+  text-decoration: none;
+}
 .main-header-group {
   background-color: #2b2016;
   color: #fff;
@@ -14,4 +34,76 @@
   padding: 10px auto;
   margin: 10px auto;
   display: block;
+}
+
+.about-me-paragraph-group {
+  background-color: whitesmoke;
+  color: black;
+  padding: 10px;
+  margin: 10px;
+  min-height: 70px;
+  box-shadow: #000000 5px;
+  border-bottom: cornflowerblue 4px solid;
+  text-align: left;
+  text-wrap: wrap;
+  text-indent: 10px;
+  text-shadow: #000000;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: larger;
+  font-weight: normal;
+}
+
+.socials-link-group {
+  background-color: whitesmoke;
+  color: black;
+  padding: 10px;
+  margin: 10px;
+  min-height: 70px;
+  box-shadow: #000000 5px;
+  border-bottom: cornflowerblue 4px solid;
+  text-align: left;
+  text-wrap: wrap;
+  text-indent: 10px;
+  text-shadow: #000000;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: larger;
+  font-weight: normal;
+}
+.socials-list-description {
+  background-color: whitesmoke;
+  color: black;
+  padding: 10px;
+  margin: 10px;
+  min-height: 70px;
+  box-shadow: #000000 5px;
+  text-align: left;
+  text-wrap: wrap;
+  text-indent: 10px;
+  text-shadow: #000000;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: larger;
+  font-weight: normal;
+}
+.socials-list-item {
+  list-style-type: none;
+  margin: 10px;
+  padding: 10px;
+  overflow: hidden;
+  text-align: center;
+  text-decoration: none;
+  display: flex;
+  align-items: flex-start;
+}
+.link-text {
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+  text-wrap: wrap;
+  font-weight: bold;
+}
+.socials-logo {
+  height: 25px;
+  width: 25px;
+  margin-right: 10px;
+  text-wrap: wrap;
 }
