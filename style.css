@@ -159,3 +159,19 @@ a:active {
   padding: 10px;
   margin: 10px;
 }
+.gallery-header {
+  background-color: #332211;
+  color: #fff;
+  padding: 10px;
+  min-height: 70px;
+  box-shadow: #000000 3px;
+  border-bottom: cornflowerblue 4px solid;
+  text-align: center;
+  size: 260px;
+}
+.gallery-image {
+  width: 50%;
+  padding: auto;
+  margin: auto;
+  display: block;
+}
